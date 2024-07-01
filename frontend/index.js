@@ -14,11 +14,11 @@ const root = createRoot(domNode)
 
 root.render(
   <>
-    {/* <Counter /> */}
-    {/* <Moods /> */}
-    {/* <Spinner /> */}
-    {/* <Input /> */}
-    {/* <Squares /> */}
+    <Counter />
+    <Moods />
+    <Spinner />
+    <Input />
+    <Squares />
     <Programmers />
   </>
 )
